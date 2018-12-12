@@ -1,1 +1,1 @@
-# Learning-DBMS Notes
+# Learning-DBMS
