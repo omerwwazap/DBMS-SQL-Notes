@@ -1,2 +1,1 @@
-# Learning-DBMS
- Notes and Projects
+# Learning-DBMS Notes
