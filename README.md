@@ -1,3 +1,3 @@
 # DBMS Notes
 
-Will be updated after final exams
+SQL-Query and SQL Syntax
